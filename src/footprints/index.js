@@ -17,4 +17,12 @@ module.exports = {
     slider: require('./slider'),
     trrs: require('./trrs'),
     via: require('./via'),
+    reversible_battery: require("./reversible_battery"),
+    button2: require("./button2"),
+    niceview: require("./niceview"),
+    nicenano: require("./nicenano"),
+    mountinghole: require("./mountinghole"),
+    diode2: require("./diode2"),
+    led_strip: require("./led_strip"),
+    tenting_puck: require("./tenting_puck"),
 }
